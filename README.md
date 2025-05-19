@@ -1,6 +1,6 @@
 # Hi, I'm Mayerson 👨‍💻⚡
 
-I'm a full stack software engineer with over 6 years of experience building scalable web and mobile applications.  
+I'm a full stack software engineer with over 7 years of experience building scalable web and mobile applications.  
 Currently working as a **Senior Software Engineer at Mercado Libre**, focused on frontend and backend solutions for LATAM markets.
 
 - 🔭 Working with: Node.js, React, TypeScript, AWS
